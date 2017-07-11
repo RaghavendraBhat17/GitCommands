@@ -1,0 +1,8 @@
+Git Commands:
+
+First time checkin:
+
+1.Create a new repository on github page.
+2. git init
+3. Copy all the files in the local directory.
+4. git add .
